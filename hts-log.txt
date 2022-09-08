@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 09 Sep 2022 02:49:09 at https://iamfutures.github.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://iamfutures.github.io/ -O1 "C:\Benim Web Sitem\d" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:49:17	Error: 	"Not Found" (404) at link https://iamfutures.github.io/css2(1) (from https://iamfutures.github.io/)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/'https://i.hizliresim.com/bbebzi0.jpg?width=995&height=559?t=1649792743' (from https://iamfutures.github.io/)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/'https://i.hizliresim.com/bbebzi0.jpg?t=1618944453' (from https://iamfutures.github.io/)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-400.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-400i.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-100.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-100i.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-200.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-200i.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-300.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-300i.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-500.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-500i.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-600.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-600i.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-700.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-700i.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-800.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-800i.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-900.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s/19714/rawline-900i.html (from https://iamfutures.github.io/rawline.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/webfonts/fa-brands-400.woff (from https://iamfutures.github.io/all.min.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/webfonts/fa-brands-400.ttf (from https://iamfutures.github.io/all.min.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/webfonts/fa-regular-400.woff (from https://iamfutures.github.io/all.min.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/webfonts/fa-regular-400.ttf (from https://iamfutures.github.io/all.min.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/webfonts/fa-solid-900.woff (from https://iamfutures.github.io/all.min.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/webfonts/fa-solid-900.ttf (from https://iamfutures.github.io/all.min.css)
+02:49:19	Error: 	"Not Found" (404) at link https://iamfutures.github.io/error_docs/styles.css (from https://iamfutures.github.io/reset.html)
+02:49:20	Error: 	"Not Found" (404) at link https://iamfutures.github.io/s.cdpn.io/1231630/clouds_repeat.png (from https://iamfutures.github.io/index.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 seconds : 39 links scanned, 9 files written (3152915 bytes overall) [3222107 bytes received at 292918 bytes/sec], 427253 bytes transferred using HTTP compression in 35 files, ratio 44%, 9.7 requests per connection
+(29 errors, 0 warnings, 0 messages)
